@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+.top_container{
+    background-color: aquamarine;
+    color: blue;
+    
+    
+}
+.main_img{
+    position: center;
+}
+
+.top_cloud{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 0px;
+    top: 50px;
+    left: 300px;
+}
+
+.bottom_cloud{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    left:100px;
+    display: inline;
+}
